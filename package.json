@@ -1,6 +1,6 @@
 {
-  "name": "Alphabot",
-  "version": "11.8.3",
+  "name": "RudyBot",
+  "version": "4.0",
   "description": "WhatsApp bot Nodejs",
   "zeeone": "zeeone.js",
   "directories": {
@@ -45,15 +45,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc"
+    "url": "git+https://github.com/DvDtopia"
   },
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "RioAngzai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeoneofc"
+    "url": "https://github.com/DvDtopia"
   },
-  "homepage": "https://github.com/zeeoneofc"
+  "homepage": "https://github.com/DvDtopia"
 }
